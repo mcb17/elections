@@ -4,3 +4,4 @@ numpy
 pydeck
 datetime
 plotly.express
+typing-extensions==4.2.0
